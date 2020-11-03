@@ -1,0 +1,5 @@
+brwserType:
+  browserName : Chrome
+
+ptahUrl:
+  URL : https://www.baidu.com
